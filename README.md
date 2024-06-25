@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KiranChornoor
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning cloud computing including services like Compute, Network, Storage, IAM, Security, Monitoring, Goverance and Admin etc.
-- 💞️ I’m looking to collaborate on building applciations for cloud
+- 🌱 I’m currently working on building LLM applications that would improve the efficiency of developers, product owners, testers, SREs.
+- 💞️ I’m looking to collaborate on building applciations for cloud and AI
 - 📫 How to reach me ...
 
 <!---
